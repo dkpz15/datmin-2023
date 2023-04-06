@@ -1,0 +1,14 @@
+Country,Age,Salary,Purchased
+Sweden,45,7500000,No
+Indonesia,,2500000,Yes
+Argentina,40,3000000,Yes
+Russia,48,5000000,No
+Sweden,25,10000000,No
+Indonesia,35,3000000,No
+Russia,52,5000000,Yes
+Germany,,7000000,Yes
+Indonesia,43,3500000,Yes
+Germany,50,7200000,No
+Argentina,23,2700000,No
+Sweden,32,6300000,Yes
+Russia,60,,No
