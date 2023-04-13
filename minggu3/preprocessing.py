@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-dataset = pd.read_csv('Data.csv')
+dataset = pd.read_csv('D:\Kuliah\Sem4\Data Mining\Tugas Github\minggu3\Data.csv')
 X = dataset.iloc[:, :-1].values
 Y = dataset.iloc[:, -1].values
 print("X : ", X)
